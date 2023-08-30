@@ -1,0 +1,62 @@
+
+
+
+.padding {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+#header-line {
+    height: 1px;
+    background-color: yellow;
+}
+.header {
+    background-color: lightyellow;
+}
+.header p {
+    text-align: center;
+}
+
+
+
+
+main {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+main > h1  {
+    text-align: center;
+}
+main > h1 + p {
+    text-align: left;
+}
+
+.source {
+    text-align: center;
+    color: lightgrey;
+}
+
+.featured > p {
+    color: red;
+}
+.featured {
+    border-left: solid orange;
+    padding-left: 5px;
+}
+
+.ingre1 {
+    padding-left: 30%;
+    padding-right: 30%;
+
+}
+footer {
+    padding-left: 30%;
+    padding-right: 30%;
+
+}
+
+.blue  {
+    height: 1px;
+    background-color: blue;
+}
